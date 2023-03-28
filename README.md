@@ -28,6 +28,5 @@ Contiene las siguientes secciones:
 Aprender a utilizar las etiquetas estándar de HTML5 y CSS.
 
 ## 4. Link a demo
-Aquí puedes visulizar mi proyecto terminado: [Clonación de Google](![image](https://user-images.githubusercontent.com/128763624/228105505-737f84f6-b462-4706-b04a-b1cbdaccb3d8.png)
-)
+Aquí puedes visulizar mi proyecto terminado: [Clonación de Google](https://tourmaline-chimera-764051.netlify.app/)
 
